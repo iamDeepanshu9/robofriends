@@ -2,7 +2,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 
-import Cardlist from './Cardlist';
+import App from './App';
 
 import reportWebVitals from './reportWebVitals';
 import 'tachyons';
@@ -11,7 +11,7 @@ import 'tachyons';
 
 ReactDOM.render(
   <React.StrictMode>
-       <Cardlist/>
+       <App/>
   </React.StrictMode>,
   document.getElementById('root')
 );
