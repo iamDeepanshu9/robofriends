@@ -25,5 +25,18 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "Deepanshu Kumar",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamDeepanshu9/robofriends.git"
+  },
+  "author": "Deepanshu Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamDeepanshu9/robofriends/issues"
+  },
+  "homepage": "https://github.com/iamDeepanshu9/robofriends#readme"
 }
